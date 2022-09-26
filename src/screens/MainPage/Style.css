@@ -1,0 +1,115 @@
+/* upper container */
+.statusBar {
+    
+  background-color: #282c34;
+  padding: 50px;
+  font-family: Arial;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 1em;
+
+
+  
+  
+
+
+  
+    
+  }
+  .nameContainer {
+    text-align: left;
+    height: 100%;
+    padding: 0.75%;
+
+
+
+  
+  }
+
+.Name {
+  color: #f7f8fa;
+  font-family: Arial;
+  font-size: 40px;
+  font-weight: 600;
+
+
+
+}
+
+.rightContainer {
+  text-align: right;
+  flex: 1; /* additionally, equal width */
+  padding: 1em;
+
+
+
+
+}
+
+.categories {
+  color: #f7f8fa;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 10px;
+
+
+
+}
+
+/* center of screen */
+
+.centerContainer{
+  flex:1;
+
+}
+
+.nameCenter{
+
+  
+  font-family: Arial;
+  font-size: 90px;
+  font-weight: 600;
+  text-align: center;
+  margin : 0;
+  margin-bottom: 40px;
+
+  
+
+
+}
+
+.imageCenter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-top:2cm;
+  border-radius: 4cm;
+  margin-bottom: 40px;
+
+
+  
+
+
+}
+
+.line {
+  border: 2px solid black;
+  width: 20%;
+  margin-bottom: 40px;
+
+  
+}
+
+.description {
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: 00;
+  text-align: center;
+  margin : 0
+
+
+}
+ 

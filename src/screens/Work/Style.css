@@ -1,0 +1,94 @@
+.Title{
+
+  
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    margin : 0;
+    margin-Top: 40px;
+    margin-bottom: 20px;
+
+  
+  }
+
+.Line {
+  border: 2px solid black;
+  width: 20%;
+  margin-bottom: 40px;
+
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-top:2cm;
+  
+  
+
+}
+
+.logoDiv {
+    display: flex;
+    justify-content: center;
+  }
+
+.logo_2 {
+    width: 14%;
+    margin-top:80px;
+    margin-right: 60px;
+
+    
+    
+  
+  }
+
+.workDescription {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    margin : 0;
+    margin-Top: 40px;
+    margin-bottom: 20px;
+
+
+
+
+}
+
+.textContainer {
+    margin: auto;
+    width: 55%;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.vlContainer {
+    
+    width:100%;
+    background-color: aqua;
+
+  }
+
+.vl {
+  border-left: 2px solid black;
+  height: 30px;
+  position: absolute;
+  left: 50%;
+  margin-top: 20px;
+
+
+}
+
+.ProjectLink {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    margin : 0;
+    margin-Top: 40px;
+
+}
