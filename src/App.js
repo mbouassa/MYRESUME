@@ -4,6 +4,8 @@ import Resume from "./screens/Resume"
 import MainPage from '/Users/famillebouassami/myresume/src/screens/MainPage'
 import Work from '/Users/famillebouassami/myresume/src/screens/Work/index.js'
 import Aljadeff from "./screens/Aljadeff";
+import Projects from "./screens/Projects"
+
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
           <Route path="Resume" element={<Resume />}></Route>
           <Route path="Work" element={<Work />}></Route>
           <Route path="Aljadeff" element={<Aljadeff />}></Route>
+          <Route path="Projects" element={<Projects />}></Route>
           <Route path="*" element={<NotFound />}></Route>
 
 

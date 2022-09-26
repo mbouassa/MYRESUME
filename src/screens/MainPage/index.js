@@ -28,8 +28,14 @@ function MainPage() {
                         <text className = "categories">Resume</text>
                     </Link>
                     <Link to = "Work">
-                        <text className = "categories">Work/Projects</text>
+                        <text className = "categories">Work Experience</text>
                     </Link>
+
+                    <Link to = "Projects">
+                        <text className = "categories">Projects</text>
+                    </Link>
+
+
                     <text className = "categories">Contact</text>
 
         
