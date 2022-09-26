@@ -6,6 +6,7 @@ import Resume from "../Resume";
 import { Button, Text } from "react-native-web";
 import image from '/Users/famillebouassami/myresume/src/components/images/hdsi.png'
 import bio from '/Users/famillebouassami/myresume/src/components/images/bio.jpg'
+import snip from '/Users/famillebouassami/myresume/src/components/images/snipfeed.png'
 
 
 function Work() {
@@ -50,6 +51,31 @@ function Work() {
                 <Link to = "/Aljadeff">
                     <p style={{margin : 0, paddingTop:0}} className = "ProjectLink">Project report</p>
                 </Link>
+            </div>
+
+            <div className="vlContainer">
+            <div className="vl">
+
+                </div>
+
+
+
+            
+            </div>
+
+
+            <div className = "logoDiv">
+            <img style = {{marginTop:50}} className = "logo_2" src={snip} alt="Italian Trulli"/>
+            
+            </div>
+
+            <div className = "textContainer">
+                <p className = "workDescription" style = {{marginBottom:50, marginTop:10}}>
+                    I have been working at Snipfeed as a part time data science intern since July 2021.
+                    I worked with a team of computer scientists and designers on creating new monetization tools 
+                    for creators. I also worked on testing new web app features to increase user retention
+                </p>
+                
             </div>
 
 
