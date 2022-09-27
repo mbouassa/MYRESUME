@@ -95,6 +95,13 @@
 
 }
 
+.links {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 1em;
+}
+
 .line {
   border: 2px solid black;
   width: 20%;

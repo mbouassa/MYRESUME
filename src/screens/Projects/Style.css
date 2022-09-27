@@ -30,6 +30,18 @@
 
 }
 
+.logompp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    margin-top:2cm;
+    border: 5px solid #555
+    
+    
+  
+  }
+
 .logoDiv {
     display: flex;
     justify-content: center;
