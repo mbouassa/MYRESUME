@@ -9,6 +9,7 @@ import bio from '/Users/famillebouassami/myresume/src/components/images/bio.jpg'
 import snip from '/Users/famillebouassami/myresume/src/components/images/snipfeed.png'
 import mp from '/Users/famillebouassami/myresume/src/components/images/MyPlan.png'
 import mv from '/Users/famillebouassami/myresume/src/components/images/MyVacae.png'
+import py from '/Users/famillebouassami/myresume/src/components/images/python.png'
 
 
 function Projects() {
@@ -57,7 +58,32 @@ function Projects() {
                  </p>
                 <div style = {{display: "flex",
     justifyContent: "center"}}>
-                <p style={{margin : 0, paddingTop:0, display: "inline", marginBottom: 50}} className = "ProjectLink"><a href="https://mbouassa.github.io/MyVacae_website/" target="_blank">Website</a></p>
+                <p style={{margin : 0, paddingTop:0, display: "inline"}} className = "ProjectLink"><a href="https://mbouassa.github.io/MyVacae_website/" target="_blank">Website</a></p>
+                
+                </div>
+            </div>
+
+            <div className="vlContainer">
+            <div className="vl">
+
+                </div>
+
+
+
+            
+            </div>
+
+
+            <img className = "logompp" src={py} alt="Italian Trulli"/>
+            <div className = "textContainer">
+                <p className = "workDescription" style = {{marginBottom:0}}>
+                I Used a decision tree classifier to see which of socioeconomic status or ethnicity is better predicted by the age at which an individual started using drugs
+
+                 
+                 </p>
+                <div style = {{display: "flex",
+    justifyContent: "center"}}>
+                <p style={{margin : 0, paddingTop:0, display: "inline", marginBottom: 50}} className = "ProjectLink"><a href="https://github.com/mbouassa/Drug_Age_Project/blob/main/Checkpoint2%20(2).pdf" target="_blank">Github</a></p>
                 
                 </div>
             </div>
