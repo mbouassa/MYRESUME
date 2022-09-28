@@ -25,7 +25,7 @@ function Work() {
             <hr className="Line"/>
             <div className = "textContainer">
                 <h1 style = {{textAlign: "center"}}>Email Adress</h1>
-                <p className = "workDescription" style = {{marginBottom:0}}>mbouassa@ucsd.edu</p>
+                <p className = "workDescription" style = {{marginBottom:40}}>mbouassa@ucsd.edu</p>
                 
 
             </div>
@@ -34,34 +34,12 @@ function Work() {
 
             <div className = "textContainer">
             <h1 style = {{textAlign: "center"}}>Phone number</h1>
-                <p className = "workDescription" style = {{marginBottom:0}}>(858)729-3884</p>
+                <p className = "workDescription" style = {{marginBottom:0}}>(858) 729-3884</p>
                 
             </div>
 
-            <div className="vlContainer">
-            <div className="vl">
-
-                </div>
-
-
-
+          
             
-            </div>
-
-
-            <div className = "logoDiv">
-            <img style = {{marginTop:50}} className = "logo_2" src={snip} alt="Italian Trulli"/>
-            
-            </div>
-
-            <div className = "textContainer">
-                <p className = "workDescription" style = {{marginBottom:50, marginTop:10}}>
-                    I have been working at Snipfeed as a part time data science intern since July 2021.
-                    I worked with a team of computer scientists and designers on creating new monetization tools 
-                    for creators. I also worked on testing new web app features to increase user retention
-                </p>
-                
-            </div>
 
 
 
