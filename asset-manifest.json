@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MYRESUME/static/css/main.de5e250f.css",
-    "main.js": "/MYRESUME/static/js/main.04ded5d5.js",
-    "static/media/Aljadeff.pdf": "/MYRESUME/static/media/Aljadeff.c1159380b451b77b3cda.pdf",
-    "static/media/Resume_Mehdi-Bouassami.pdf": "/MYRESUME/static/media/Resume_Mehdi-Bouassami.d3dfab614c90051af027.pdf",
-    "static/media/hdsi.png": "/MYRESUME/static/media/hdsi.d36c24e5e182f0e23593.png",
-    "static/media/MyVacae.png": "/MYRESUME/static/media/MyVacae.6d0c9b6c233526f119ad.png",
-    "static/media/pic_linkedin.jpeg": "/MYRESUME/static/media/pic_linkedin.09f34b4363a1c92b1a08.jpeg",
-    "static/media/MyPlan.png": "/MYRESUME/static/media/MyPlan.d2b0f2d65347443ca7f5.png",
-    "static/media/bio.jpg": "/MYRESUME/static/media/bio.ba7c8606fe3f6675e51c.jpg",
-    "index.html": "/MYRESUME/index.html",
-    "main.de5e250f.css.map": "/MYRESUME/static/css/main.de5e250f.css.map",
-    "main.04ded5d5.js.map": "/MYRESUME/static/js/main.04ded5d5.js.map"
+    "main.css": "/myresume/static/css/main.de5e250f.css",
+    "main.js": "/myresume/static/js/main.593f2060.js",
+    "static/media/Aljadeff.pdf": "/myresume/static/media/Aljadeff.c1159380b451b77b3cda.pdf",
+    "static/media/Resume_Mehdi-Bouassami.pdf": "/myresume/static/media/Resume_Mehdi-Bouassami.d3dfab614c90051af027.pdf",
+    "static/media/hdsi.png": "/myresume/static/media/hdsi.d36c24e5e182f0e23593.png",
+    "static/media/MyVacae.png": "/myresume/static/media/MyVacae.6d0c9b6c233526f119ad.png",
+    "static/media/pic_linkedin.jpeg": "/myresume/static/media/pic_linkedin.09f34b4363a1c92b1a08.jpeg",
+    "static/media/MyPlan.png": "/myresume/static/media/MyPlan.d2b0f2d65347443ca7f5.png",
+    "static/media/bio.jpg": "/myresume/static/media/bio.ba7c8606fe3f6675e51c.jpg",
+    "index.html": "/myresume/index.html",
+    "main.de5e250f.css.map": "/myresume/static/css/main.de5e250f.css.map",
+    "main.593f2060.js.map": "/myresume/static/js/main.593f2060.js.map"
   },
   "entrypoints": [
     "static/css/main.de5e250f.css",
-    "static/js/main.04ded5d5.js"
+    "static/js/main.593f2060.js"
   ]
 }
