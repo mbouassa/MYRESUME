@@ -1,5 +1,5 @@
 import React from "react"
-import { Routes, Route, Link } from "react-router-dom"
+import { Routes, Route} from "react-router-dom"
 import Resume from "./screens/Resume"
 import MainPage from '/Users/famillebouassami/myresume/src/screens/MainPage'
 import Work from '/Users/famillebouassami/myresume/src/screens/Work/index.js'

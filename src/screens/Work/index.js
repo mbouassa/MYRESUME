@@ -1,12 +1,9 @@
 import React from "react";
-import { Link, NavLink, Route, Router, Routes } from "react-router-dom";
-import styles from './Style.css'
-//import { useNavigate } from "react-router-dom";
-import Resume from "../Resume";
-import { Button, Text } from "react-native-web";
+import { Link} from "react-router-dom";
 import image from '/Users/famillebouassami/myresume/src/components/images/hdsi.png'
 import bio from '/Users/famillebouassami/myresume/src/components/images/bio.jpg'
 import snip from '/Users/famillebouassami/myresume/src/components/images/snipfeed.png'
+import styles from './Style.css'
 
 
 function Work() {
@@ -29,7 +26,7 @@ function Work() {
                 on studying the efficiency of Model-based targeted dimensionality reduction on understanding neurons' activity in 
                 the prefrontal cortex. </p>
                 
-                <p style={{margin : 0, paddingTop:0}} className = "ProjectLink"><a href="https://colab.research.google.com/drive/1aOFX5-iTEUwJleiUf90Iln4pDCUoTUS6#scrollTo=ET1quX2bFw1J" target="_blank">Python code</a></p>
+                <p style={{margin : 0, paddingTop:0}} className = "ProjectLink"><a href="https://colab.research.google.com/drive/1aOFX5-iTEUwJleiUf90Iln4pDCUoTUS6#scrollTo=ET1quX2bFw1J" target="_blank" rel="noreferrer">Python code</a></p>
 
             </div>
             <div className="vlContainer">
