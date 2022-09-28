@@ -1,24 +1,15 @@
 import React from "react";
-import { Link, NavLink, Route, Router, Routes } from "react-router-dom";
-import styles from './Style.css'
-//import { useNavigate } from "react-router-dom";
-import { Button, Text } from "react-native-web";
+import {Link} from "react-router-dom";
+
 import image from '/Users/famillebouassami/myresume/src/components/images/pic_linkedin.jpeg'
 import { AiFillLinkedin } from 'react-icons/ai';
 import { AiFillGithub } from 'react-icons/ai';
+import styles from './Style.css'
 
 
 
 function MainPage() {
-    
-    
-      
-    
-
-    
-
-    
-
+ 
     return (
         <div>
             <div className="statusBar">
@@ -30,18 +21,18 @@ function MainPage() {
 
 
                 <div className = "rightContainer">
-                    <Link to = "Resume">
+                    <Link to = "/Resume">
                         <text className = "categories">Resume</text>
                     </Link>
-                    <Link to = "Work">
+                    <Link to = "/Work">
                         <text className = "categories">Work Experience</text>
                     </Link>
 
-                    <Link to = "Projects">
+                    <Link to = "/Projects">
                         <text className = "categories">Projects</text>
                     </Link>
 
-                    <Link to = "Contact">
+                    <Link to = "/Contact">
 
                     <text className = "categories">Contact</text>
                     </Link>
@@ -57,14 +48,14 @@ function MainPage() {
 
             <div className = "centerContainer">
             <div className = "links">   
-            <a href="https://www.linkedin.com/in/mehdi-bouassami/" target="_blank">
+            <a href="https://www.linkedin.com/in/mehdi-bouassami/" target="_blank" rel="noreferrer">
          
                 <AiFillLinkedin size={70} style = {{marginLeft:200}}/>
                                     </a>
 
  
             <img className = "imageCenter" src={image} alt="Italian Trulli"/>
-            <a href="https://github.com/mbouassa?tab=repositories" target="_blank">
+            <a href="https://github.com/mbouassa?tab=repositories" target="_blank" rel="noreferrer">
 
             <AiFillGithub size={70} style = {{marginRight:200}}/>
             </a>
