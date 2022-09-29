@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/www.mehdi-bouassami.com/static/css/main.de5e250f.css",
-    "main.js": "/www.mehdi-bouassami.com/static/js/main.3d845076.js",
-    "static/media/Aljadeff.pdf": "/www.mehdi-bouassami.com/static/media/Aljadeff.c1159380b451b77b3cda.pdf",
-    "static/media/Resume_Mehdi-Bouassami.pdf": "/www.mehdi-bouassami.com/static/media/Resume_Mehdi-Bouassami.d3dfab614c90051af027.pdf",
-    "static/media/hdsi.png": "/www.mehdi-bouassami.com/static/media/hdsi.d36c24e5e182f0e23593.png",
-    "static/media/MyVacae.png": "/www.mehdi-bouassami.com/static/media/MyVacae.6d0c9b6c233526f119ad.png",
-    "static/media/pic_linkedin.jpeg": "/www.mehdi-bouassami.com/static/media/pic_linkedin.09f34b4363a1c92b1a08.jpeg",
-    "static/media/MyPlan.png": "/www.mehdi-bouassami.com/static/media/MyPlan.d2b0f2d65347443ca7f5.png",
-    "static/media/bio.jpg": "/www.mehdi-bouassami.com/static/media/bio.ba7c8606fe3f6675e51c.jpg",
-    "index.html": "/www.mehdi-bouassami.com/index.html",
-    "main.de5e250f.css.map": "/www.mehdi-bouassami.com/static/css/main.de5e250f.css.map",
-    "main.3d845076.js.map": "/www.mehdi-bouassami.com/static/js/main.3d845076.js.map"
+    "main.css": "/static/css/main.de5e250f.css",
+    "main.js": "/static/js/main.aae6511d.js",
+    "static/media/Aljadeff.pdf": "/static/media/Aljadeff.c1159380b451b77b3cda.pdf",
+    "static/media/Resume_Mehdi-Bouassami.pdf": "/static/media/Resume_Mehdi-Bouassami.d3dfab614c90051af027.pdf",
+    "static/media/hdsi.png": "/static/media/hdsi.d36c24e5e182f0e23593.png",
+    "static/media/MyVacae.png": "/static/media/MyVacae.6d0c9b6c233526f119ad.png",
+    "static/media/pic_linkedin.jpeg": "/static/media/pic_linkedin.09f34b4363a1c92b1a08.jpeg",
+    "static/media/MyPlan.png": "/static/media/MyPlan.d2b0f2d65347443ca7f5.png",
+    "static/media/bio.jpg": "/static/media/bio.ba7c8606fe3f6675e51c.jpg",
+    "index.html": "/index.html",
+    "main.de5e250f.css.map": "/static/css/main.de5e250f.css.map",
+    "main.aae6511d.js.map": "/static/js/main.aae6511d.js.map"
   },
   "entrypoints": [
     "static/css/main.de5e250f.css",
-    "static/js/main.3d845076.js"
+    "static/js/main.aae6511d.js"
   ]
 }
