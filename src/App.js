@@ -1,5 +1,5 @@
 import React from "react"
-import { Routes, Route} from "react-router-dom"
+import { Routes, Route, BrowserRouter} from "react-router-dom"
 import Resume from "./screens/Resume"
 import MainPage from '/Users/famillebouassami/myresume/src/screens/MainPage'
 import Work from '/Users/famillebouassami/myresume/src/screens/Work/index.js'
@@ -14,6 +14,7 @@ function App() {
     <div className="App">
       <div className="main">
         {/* Define all the routes */}
+        <BrowserRouter>
         <Routes>
           <Route path="/" element={<MainPage />}></Route>
           <Route path="/Resume" element={<Resume />}></Route>
@@ -26,7 +27,9 @@ function App() {
 
 
 
+
         </Routes>
+        </BrowserRouter>
       </div>
     </div>
   )
