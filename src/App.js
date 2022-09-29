@@ -22,22 +22,22 @@ function App() {
           <Route path="/Projects" element={<Projects />}></Route>
           <Route path="/Contact" element={<Contact />}></Route>
 
+          <Route path="*" element={<NotFound />}></Route>
 
 
 
         </Routes>
       </div>
     </div>
-
   )
 }
-//
+
 export const Home = () => {
   return <div>You are in Home page</div>
 }
 
 export const NotFound = () => {
-  return <div>This is a 404 page</div>
+  return <div>damn</div>
 }
 
 export default App
