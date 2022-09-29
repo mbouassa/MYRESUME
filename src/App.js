@@ -16,22 +16,22 @@ function App() {
         {/* Define all the routes */}
         <Routes>
           <Route path="/" element={<MainPage />}></Route>
-          <Route path="Resume" element={<Resume />}></Route>
-          <Route path="Work" element={<Work />}></Route>
-          <Route path="Aljadeff" element={<Aljadeff />}></Route>
-          <Route path="Projects" element={<Projects />}></Route>
-          <Route path="Contact" element={<Contact />}></Route>
+          <Route path="/Resume" element={<Resume />}></Route>
+          <Route path="/Work" element={<Work />}></Route>
+          <Route path="/Aljadeff" element={<Aljadeff />}></Route>
+          <Route path="/Projects" element={<Projects />}></Route>
+          <Route path="/Contact" element={<Contact />}></Route>
 
-          <Route path="*" element={<NotFound />}></Route>
 
 
 
         </Routes>
       </div>
     </div>
+
   )
 }
-
+//
 export const Home = () => {
   return <div>You are in Home page</div>
 }
