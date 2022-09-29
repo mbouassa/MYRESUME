@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myresume/static/css/main.de5e250f.css",
-    "main.js": "/myresume/static/js/main.d4a68b9d.js",
+    "main.js": "/myresume/static/js/main.682768f8.js",
     "static/media/Aljadeff.pdf": "/myresume/static/media/Aljadeff.c1159380b451b77b3cda.pdf",
     "static/media/Resume_Mehdi-Bouassami.pdf": "/myresume/static/media/Resume_Mehdi-Bouassami.d3dfab614c90051af027.pdf",
     "static/media/hdsi.png": "/myresume/static/media/hdsi.d36c24e5e182f0e23593.png",
@@ -11,10 +11,10 @@
     "static/media/bio.jpg": "/myresume/static/media/bio.ba7c8606fe3f6675e51c.jpg",
     "index.html": "/myresume/index.html",
     "main.de5e250f.css.map": "/myresume/static/css/main.de5e250f.css.map",
-    "main.d4a68b9d.js.map": "/myresume/static/js/main.d4a68b9d.js.map"
+    "main.682768f8.js.map": "/myresume/static/js/main.682768f8.js.map"
   },
   "entrypoints": [
     "static/css/main.de5e250f.css",
-    "static/js/main.d4a68b9d.js"
+    "static/js/main.682768f8.js"
   ]
 }
